@@ -1,9 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Mateus+Ferreira+%F0%9F%91%8B;+I'm+22+years+old+;I'm+passionate+about+technology!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Mateus+Ferreira+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ferreira-9a86231a2/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mat3usferreira/)
+
 
 <table style="width: 100%;">
   <tr>
@@ -23,7 +24,7 @@
 
 
 
-###  Technologies I use in my day
+###  Tecnologias que uso no meu dia
 
 ### Backend:
 <div style="display: inline_block"><br/>
@@ -47,4 +48,10 @@
 <img align="center" alt="Prisma" src="https://img.shields.io/badge/TypeORM-3982CE?style=for-the-badge&logo=TypeORM&logoColor=white" />
 <img align="center" alt="TypeORM" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
 </div>
+<br>
+<div align="center">
+<br><p style="color:007FFF" align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mateus2001ferreira}/count.svg" /></p> 
+</div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=120&section=footer"/>
