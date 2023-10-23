@@ -39,15 +39,7 @@
 <img align="center" alt="PostgreSQL" src="https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"/>
 <img align="center" alt="MySQL" src="https://camo.githubusercontent.com/9a2ddf2bacab4119a931ada7bc7ded01c147c1d88602654c46c26e9af65f6273/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6d7973716c2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6162656c436f6c6f723d304431313137" />
 
-</div>
- 
- ### ORM:
 
-<div style="display: inline_block"><br/>
-
-<img align="center" alt="Prisma" src="https://img.shields.io/badge/TypeORM-3982CE?style=for-the-badge&logo=TypeORM&logoColor=white" />
-<img align="center" alt="TypeORM" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-</div>
 <br>
 <div align="center">
 <br><p style="color:007FFF" align="centre"><b>Visitors Count</b></p>  
