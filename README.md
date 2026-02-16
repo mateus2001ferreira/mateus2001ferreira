@@ -61,9 +61,4 @@
 	<img alt="Gateway" src="https://img.shields.io/badge/Gateway-1C7ED6?style=for-the-badge" />
 </p>
 
-<p align="center">
-	<b>Visitors Count</b><br />
-	<img alt="Visitor count" src="https://img.shields.io/badge/Visitors-896-007FFF?style=for-the-badge" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=120&section=footer" />
